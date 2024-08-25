@@ -1,0 +1,24 @@
+h1{
+	font-family: courier new;
+}
+body{
+	background-image: url(clouds.avif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+	text-align:center;
+}
+nav{
+	display: block;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  width: 50%
+}
+th, td {
+  background-color: DodgerBlue;
+}
+container{
+	position: relative;
+}
